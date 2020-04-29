@@ -9,12 +9,13 @@ To open the `.ipynb` file, which contains the data visualizations and other anal
 
 The soils used were each slightly different, so here is some general information about them.
 
-[Data Set | Soil Type | Crop | Field or Lab]
-[nw | synthetic sand | turf | field]
-[ne | synthetic sand | turf | field]
-[sw | natural loamy sand | turf | field]
-[se | natural loamy sand | turf | field]
-[gr | loamy clay or loam | potato | field]
-[hp | all | none | lab]
+[Data Set | Soil Type | Crop | Field or Lab]  
+[--------|------------|------|-------------]  
+[nw | synthetic sand | turf | field]  
+[ne | synthetic sand | turf | field]  
+[sw | natural loamy sand | turf | field]  
+[se | natural loamy sand | turf | field]  
+[gr | loamy clay or loam | potato | field]  
+[hp | all | none | lab]  
 
 
